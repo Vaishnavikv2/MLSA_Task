@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Vaishnavi",
-  title: "Java Developer | Machine Learning Enthusiast | Bridging Software Engineering with AI",
+  title: "Welcome To My Portfolio",
   email: "vaishnavi.kv2@gmail.com",
-  gitHub: "https://github.com/Vaishnavikv2",
+  gitHub: "Vaishnavikv2",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/vaishnavi-851524241/",
+  linkedIn: "vaishnavi-851524241/",
   medium: "",
   twitter: "",
   youTube: "",

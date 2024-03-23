@@ -33,9 +33,9 @@ const description =
 const skillsList = [
   "Java Developer",
   "Machine Learning",
-  "Datastructure Programming",
+  "Datastructures",
   "Data Science",
-  "Mobile user interfaces",
+  "JavaScript",
   "Python",
 ];
 
