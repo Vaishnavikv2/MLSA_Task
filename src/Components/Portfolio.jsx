@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/copm.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "MachineLearningProjects🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "MachineLearningProjects This repository contains a collection of machine learning projects that I have been learning and working on. Each project focuses on various aspects of machine learning, including data preprocessing, feature engineering, model selection, and evaluation. 1 .Object Classification in the Ocean: This project aims to classify objects in the ocean as either rocks or mines using solar data. It involves applying various machine learning algorithms such as logistic regression.",
+    url: "https://github.com/Vaishnavikv2/MachineLearningProjects",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Quiz_App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a Quiz App using Java in Android Studio it will display the score at the end of your test",
+    url: "https://vaishnavikv2.github.io/Quiz_App/",
   },
   {
-    title: "My Resume Site",
+    title: "Cross_Border_payments",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "StreamlinePay is a cross-border payment solution built on Ethereum blockchain, designed to simplify and enhance the process of international transactions. It offers fast, secure, and transparent payments, reducing fees and improving accessibility.",
+    url: "https://github.com/Vaishnavikv2/Cross_Border_Payments",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Python_ANPR",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Automatic number plate recognition used to detect the number plate using Easy OCR and OpenCV technology",
+    url: "https://github.com/Vaishnavikv2/Python-ANPR",
   },
 ];
 
